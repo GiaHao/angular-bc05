@@ -1,0 +1,6 @@
+* Buổi 1
+    - Component
+    - Module
+
+npm install jquery popper.js bootstrap@4.3.1 --save
+        
